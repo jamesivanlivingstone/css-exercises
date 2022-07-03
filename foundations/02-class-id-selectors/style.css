@@ -1,4 +1,19 @@
-p {
+.odd {
  background-color: rgb(232, 125, 143);   
  font-family: 'Verdana', 'DejaVu Sans', 'sans-serif' ;
+}
+
+#no-two {
+    color: hsl(240, 73%, 51%);
+    font-size: 36px;
+}
+
+.no-three {
+    font-size: 24px;
+}
+
+#no-four {
+    background-color: rgb(94, 209, 94);
+    font-size: 24px;
+    font-weight:700;
 }
